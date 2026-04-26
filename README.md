@@ -9,3 +9,13 @@
 # 私有部署
 当前已集成到宝塔中进行一键安装使用，可直接在宝塔中搜索 ````BizBot```` 即可找到，进行安装使用。  
 ![](resource/bt-store-install-bozbot.png)
+
+# 使用截图
+### Android 端
+![](resource/bizbot_info_ipad_chat_list.jpg)
+![](resource/bizbot_info_ipad_index.jpg)
+
+### WEB端
+![](resource/bizbot_info_web_chat_view.png)
+![](resource/bizbot_info_web_chat_view_info.png)
+
