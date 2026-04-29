@@ -31,3 +31,8 @@
 ![](resource/bizbot_info_web_chat_view.png)
 ![](resource/bizbot_info_web_chat_view_info.png)
 
+
+# 联系
+作者：管雷鸣  
+邮箱：921153866@qq.com  
+微信：17076012262  
