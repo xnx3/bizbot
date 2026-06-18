@@ -20,7 +20,7 @@
 # 私有部署
 
 ### Linux 部署
-比如你可以弄个 Centos7.x 或者 Ubuntu 的服务器，执行脚本一键部署：
+比如你可以弄个 Centos7.x ，执行脚本一键部署：
 
 ````
 yum -y install wget && wget http://down.zvo.cn/bizbot/centos7/install.sh -O ~/install.sh && chmod -R 777 ~/install.sh && sh ~/install.sh
