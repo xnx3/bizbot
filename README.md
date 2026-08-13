@@ -20,23 +20,13 @@
 # 私有部署
 
 ### Linux 部署
-比如你可以弄个 Centos7.x ，执行脚本一键部署：
+比如你可以弄个 Ubuntu ，执行脚本一键部署：
 
 ````
-yum -y install wget && wget http://down.zvo.cn/bizbot/centos7/install.sh -O ~/install.sh && chmod -R 777 ~/install.sh && sh ~/install.sh
+curl -fsSL http://down.zvo.cn/bizbot/centos7/install.sh -o install.sh && chmod 777 install.sh && ./install.sh
 ````
 
-目前是Linux版本最少需要2核6g服务器可以用这个命令一键部署
-
-### Windows 部署
-
-windows一键运行包至少要找台8G或以上内存的电脑进行安装，软件下载链接 : 
-http://d.leimingyun.com/bizbot-windows.zip  
-下载后一键运行即可。不过它可能启动时间会稍微长点，他会进行虚拟化计算，根据电脑配置不同，可能会在 2~15分钟不等，启动后即可正常进行使用。
-
-### 宝塔部署
-当前已集成到宝塔中进行一键安装使用，可直接在宝塔中搜索 ````BizBot```` 即可找到，进行安装使用。  
-![](resource/bt-store-install-bozbot.png)
+目前是Linux版本最少需要1核2g服务器可以用这个命令一键部署
 
 
 
