@@ -18,20 +18,14 @@ curl -fsSL https://down.zvo.cn/bizbot/centos7/install.sh -o install.sh && chmod 
 ````  
 有关更多的详细说明，可以参考：  [https://bizbot.zvo.cn/index.html#deployment](https://bizbot.zvo.cn/index.html#deployment)
 
+## 使用
+我们提供了具体的如何部署及快速使用的7分钟视频：
+[https://bizbot.zvo.cn/index.html#shiyong-video](https://bizbot.zvo.cn/index.html#shiyong-video)  
+你可以通过视频快速了解它是干什么的，怎么使用。  
+十分钟内上手，不需要熟悉复杂的操作，最简单设置，最快开始使用。  
 
 
-## 使用截图
-### Android 端
-![](resource/bizbot_info_ipad_chat_list.jpg)
-![](resource/bizbot_info_ipad_index.jpg)
-
-### WEB端
-![](resource/bizbot_info_web_chat_view_xp.png)
-![](resource/bizbot_info_web_chat_view.png)
-![](resource/bizbot_info_web_chat_view_info.png)
-
-
-# 关于我们
+## 关于我们
 作者：管雷鸣  
 邮箱：921153866@qq.com  
 微信：17076012262  
