@@ -1,33 +1,42 @@
-## 简介
-它是一个自动营销推广的机器人，集成了我们十余年的技术成果，提供自动化营销推广能力。  
-[![输入图片说明](resource/bizbot-info.jpg)](https://bizbot.zvo.cn/index.html#video)
-点击上图可查看视频说明及了解更多。
+**English** | [简体中文](README_zh.md)
 
-## 你有技术有产品，它帮你推广出去
-可能你技术很好，你的产品也很棒，但是苦于知道的人太少，再好的产品也发挥不了价值，然后逐渐被埋没！  
-作为一个一直搞开源的老技术， 深知其中的痛苦，于是我们专门做了这个，专门针对技术人员，弥补技术在推广方面的缺陷，AI时代，应该是技术人员的最先拥抱，最好的机会。  
+# BizBot
 
-## 它也可以接入你现有的产品
-比如你有CRM、ERP ......  等等产品，可以跟他快速对接，它提供API对接接口，可以吧寻找的客户数据、自动聊天的数据等直接对接到你自己的系统中，成为你自己系统的一部分。  
+An automated marketing and promotion robot, built on more than a decade of our engineering work.
 
-## Linux 部署
-你可以弄个 Ubuntu ， 22、24版本的都行，1核2G就够用，执行脚本一键部署：
+[![BizBot overview](resource/bizbot-info.jpg)](https://bizbot.zvo.cn/index.html#video)
 
-````
+Click the image above to watch the demo video and learn more.
+
+## You build it. BizBot gets it in front of people
+
+You may have great tech and a great product — but if too few people know about it, even the best work ends up buried. As a long-time open-source developer, I know that pain well. That is why we built BizBot specifically for technical people: to close the gap between building something and getting it noticed. In the AI era, engineers should be the first to seize that opportunity.
+
+## Plug it into your existing product
+
+Already running a CRM, ERP, or a similar system? BizBot provides an API, so discovered leads and automated conversation data can be pushed straight into your own system, becoming a native part of your product.
+
+## Deploy on Linux
+
+A small Ubuntu 22.04 or 24.04 instance (1 vCPU / 2 GB RAM) is enough. One command:
+
+```
 curl -fsSL https://down.zvo.cn/bizbot/centos7/install.sh -o install.sh && chmod 777 install.sh && ./install.sh
-````  
-有关更多的详细说明，可以参考：  [https://bizbot.zvo.cn/index.html#deployment](https://bizbot.zvo.cn/index.html#deployment)
+```
 
-## 使用
-我们提供了具体的如何部署及快速使用的7分钟视频：
-[https://bizbot.zvo.cn/index.html#shiyong-video](https://bizbot.zvo.cn/index.html#shiyong-video)  
-你可以通过视频快速了解它是干什么的，怎么使用。  
-十分钟内上手，不需要熟悉复杂的操作，最简单设置，最快开始使用。  
+Full deployment guide: [https://bizbot.zvo.cn/index.html#deployment](https://bizbot.zvo.cn/index.html#deployment)
 
+## Getting started
 
-## 关于我们
-作者：管雷鸣  
-邮箱：921153866@qq.com  
-微信：17076012262  
-  
+A 7-minute walkthrough covering deployment and first use:
+[https://bizbot.zvo.cn/index.html#shiyong-video](https://bizbot.zvo.cn/index.html#shiyong-video)
+
+You can be up and running in under ten minutes — no complicated setup, minimal configuration.
+
+## About
+
+Author: Guan Leiming
+Email: 921153866@qq.com
+Additional contact details: [Chinese README](README_zh.md)
+
 ![](resource/xingzhibei2025.jpg)
