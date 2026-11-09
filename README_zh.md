@@ -2,7 +2,7 @@
 
 ## 简介
 它是一个自动营销推广的机器人，集成了我们十余年的技术成果，提供自动化营销推广能力。  
-[![输入图片说明](resource/bizbot-info.jpg)](https://bizbot.zvo.cn/index.html#video)
+[![输入图片说明](resource/bizbot-info-image-play-chinese.jpg)](https://bizbot.zvo.cn/index.html#video)
 点击上图可查看视频说明及了解更多。
 
 ## 你有技术有产品，它帮你推广出去
