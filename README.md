@@ -4,7 +4,7 @@
 
 An automated marketing and promotion robot, built on more than a decade of our engineering work.
 
-[![BizBot overview](resource/bizbot-info.jpg)](https://bizbot.zvo.cn/index.html#video)
+[![BizBot overview](resource/bizbot-info-image-play-english.jpg)](https://bizbot.zvo.cn/index.html#video)
 
 Click the image above to watch the demo video and learn more.
 
